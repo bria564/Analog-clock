@@ -17,7 +17,7 @@
     </div>
     
     <div class="header">
-        <h1>Arnav Sivakumar</h1>
+        <h1>Brian Steele</h1>
         <p>Choicest Fruit Internship</p>
     </div>
 
